@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi there, I am Atul Patel
+I'm a passionate Software Engineer with expertise in JavaScript and modern frontend technologies. I love crafting innovative solutions that push the boundaries of what's possible in web development.
 
 <!--
 **atulpat3l/atulpat3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
